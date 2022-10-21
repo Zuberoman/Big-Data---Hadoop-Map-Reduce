@@ -18,4 +18,6 @@ Map-Reduce Hadoop practise:
 
 - script measuring statisctics (such as flights average delays, average flight distance and so on) from Airplane dataset
 
-05_taxi - measurement of statistical distribution of passengers, localizations and average bills
+05_taxi 
+
+- script measuring statisctics (distribution of passengers, localizations and average bills) from Taxi dataset
