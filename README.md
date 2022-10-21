@@ -8,7 +8,7 @@ Map-Reduce Hadoop practise:
 
 02_word_count - program for counting words in text file
 
--script cleansing text file from undesired signs and counting most common word
+- script cleansing text file from undesired signs and counting most common word
 
 03_example - Example of MapReduce
 
