@@ -10,8 +10,12 @@ Map-Reduce Hadoop practise:
 
 - script cleansing text file from undesired signs and counting most common word
 
-03_example - Example of MapReduce
+03_example - Example of Map+Reduce+Combine
 
-04_airports - programs measuring statistics of airplane flights
+- script counting the number of each word found in text file
+
+04_airports
+
+- script measuring statisctics (such as flights average delays, average flight distance and so on) from Airplane dataset
 
 05_taxi - measurement of statistical distribution of passengers, localizations and average bills
